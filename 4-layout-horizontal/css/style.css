@@ -1,4 +1,4 @@
-nav {
+nav li {
 float: left;
 }
 
@@ -33,10 +33,13 @@ nav ul {
     background-color: black;
     color: white;
   }
-
+.social-links a{
+  color: black;
+  text-decoration: none;
+}
   ul.social-links {
     list-style-type: none;
-
+   
   }
 
   .social-links li {
@@ -46,6 +49,7 @@ nav ul {
     border-radius:10px;
     text-align: center;
   }
+  
   .social-links li:hover {
     background: gray;
   }  

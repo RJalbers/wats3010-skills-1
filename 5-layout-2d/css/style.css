@@ -19,7 +19,7 @@
   }
 
   #camel-img {
-    background: url("/5-layout-2d/images/camel.jpg");
+    background: url("../images/camel.jpg");
     background-size: cover;
     height: 100%;
     background-position: center right;
@@ -27,7 +27,7 @@
   }
 
   #cayote-img {
-    background: url("/5-layout-2d/images/cayote.jpg");
+    background: url("../images/cayote.jpg");
     background-size: cover;
     height: 100%;
     background-position: center right;
